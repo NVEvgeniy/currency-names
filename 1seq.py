@@ -8,7 +8,7 @@ for i in range(number_of_elements):
     elements.append(element)
 
 elements.sort()
-print(elements)
+print('Вывод:', elements)
 
 
 
